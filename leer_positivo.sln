@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leer_positivo", "leer_positivo\leer_positivo.csproj", "{A8ABD939-0489-4E5C-923D-BD32E95DF4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8ABD939-0489-4E5C-923D-BD32E95DF4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8ABD939-0489-4E5C-923D-BD32E95DF4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8ABD939-0489-4E5C-923D-BD32E95DF4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ABD939-0489-4E5C-923D-BD32E95DF4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E945207-8440-4255-AF70-3FF06234793D}
+	EndGlobalSection
+EndGlobal
